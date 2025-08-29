@@ -1,5 +1,3 @@
-Processor icons created by Hilmy Abiyyu A. - Flaticon
-Link: https://www.flaticon.com/free-icons/processor
 
 Ram Memory icons created by Freepik - Flaticon
 Link: https://www.flaticon.com/free-icons/ram-memory
@@ -62,4 +60,5 @@ Data icons created by monkik - Flaticon
 Link: https://www.flaticon.com/free-icons/data
 
 Output icons created by Witdhawaty - Flaticon
+
 Link: https://www.flaticon.com/free-icons/output
